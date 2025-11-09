@@ -1,7 +1,7 @@
 ## RM8 Bingo Mod
 
 Features:
-- Immediate game start to stage select
+- Immediate game start to stage select (after the player skips the cutscene)
 - All 8 Robot Master, Duo and Wily stages selectable
 - Wily stage will give all Robot Master weapons and Rush items
 
@@ -19,7 +19,7 @@ Due to nature of applying patches for PSX games, and that most Rockman 8 ISO fil
 
 # Troubleshooting
 If you want to confirm the before & after files are correct, do the following (on Windows):  
-- Open Windows Explorer, navigate to the folder where your RM7 ROMs are  
+- Open Windows Explorer, navigate to the folder where your RM8 ISOs are  
 - Shift + Right Click > "Open PowerShell window here"  
 - In Powershell, use the following command, substituting the [file] with your file name: `CertUtil -hashfile '[file]' md5`  
 - The source `Rockman 8 - Metal Heroes (Japan).bin` file should return the following hash: `df7a2a86be8658b1528c265070e3749e`  
