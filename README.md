@@ -14,7 +14,7 @@ Due to nature of applying patches for PSX games, and that most Rockman 8 ISO fil
 - Download this codebase as a zip and extract to a folder
 - Create a `/bin` folder in this root folder
 - Place "Rockman 8 - Metal Heroes (Japan).bin" and "Rockman 8 - Metal Heroes (Japan).cue", that you created in step 1, in the root folder. 
-- Run `make.bat`. You can either double click on this file, or you can type `cmd` into the Explorer bar, press Enter, then type `make.bat` and press Enter. The output will be placed in `/bin`.
+- Run `make.bat`. You can either double click on this file, or you can type `cmd` into the Explorer bar, press Enter, then type `make.bat` and press Enter. The output will be placed in `/bin`.  
 ** UPDATE YOUR EMULATORS TO THE LATEST VERSION!! **  
 
 # Troubleshooting
